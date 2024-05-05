@@ -26,6 +26,8 @@ Dari 11 Negara ASEAN terdapat 6 Negara ASEAN yang terdata di data Kebahagian pad
 5. Laos
 6. Myanmar
 
+Pada Bar chart diatas menampilkan diagram dari 6 negara ASEAN dengan tingkat kebahagian tertinggi sampai yang paling terendah. Dimana Thailand memiliki tingkat bahagia yang paling tinggi sedangkan Myanmar yang paling rendah
+
 ## Rata-rata Indeks Kebahagian 6 Negara ASEAN <img src='https://github.com/YolandaSitompul/Tugas-Praktisi-Yolanda/blob/0e431bbb5fa964b0197d85cfc5f6a23de01b99eb/rata-rata%20kebahagian.png'>
 
 ## DESKRIPSI :
@@ -42,7 +44,7 @@ Melihat Peringkat Negara-negara ASEAN :
 5. Laos (Peringkat 104)
 6. Myanmar (Peringkat 133)
    
-Dapat dilihat bahwa negara Thailand berada di peringkat 54 dari 154 negara yang ada sedangkan indonesia berada pada peringkat 84. sehingga berdasarkan data yang ada bahwa negara Thailand adalah negara yang relatif bahagia dari 5 negara ASEAN lainnya. sedangkan laos Myanmar berada peringkat 133. 
+Dapat dilihat bahwa negara Thailand berada di peringkat 54 dari 154 negara yang ada sedangkan indonesia berada pada peringkat 84. sehingga berdasarkan data yang ada bahwa negara Thailand adalah negara yang relatif bahagia dari 5 negara ASEAN lainnya. Sedangkan Myanmar berada peringkat 133. 
 
 ## COMPARE FACTOR INDONESIA VS THAILAND <img src='https://github.com/YolandaSitompul/Tugas-Praktisi-Yolanda/blob/f015e88ee12fb4504b45cc82d5b786630bf85935/CompareFactorIndoThailand.png'>
 
