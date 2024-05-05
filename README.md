@@ -30,5 +30,7 @@ DARI 6 NEGARA ASEAN DIDAPATKAN RATA-RATA INDEKS KEBAHAGIANNYA.TERNYATA INDEKS KE
 ## DESKRIPSI : 
 Dapat dilihat bahwa negara Thailand berada di peringkat 54 dari 154 negara yang ada sedangkan indonesia berada pada peringkat 84. sehingga benar bahwa negara Thailand adalah negara yang relatif bahagia dari 5 negara ASEAN lainnya. 
 
+## COMPARE FACTOR INDONESIA VS THAILAND <img src='https://github.com/YolandaSitompul/Tugas-Praktisi-Yolanda/blob/f015e88ee12fb4504b45cc82d5b786630bf85935/CompareFactorIndoThailand.png'>
 
-
+## DESKRIPSI 
+Disini kita akan melihat faktor-faktor yang mempengaruhi kebahagian masing-masing negara indonesia dan thailand, ternyata thailand lebih mendominasi.
