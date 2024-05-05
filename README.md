@@ -25,7 +25,7 @@ Dari 11 Negara ASEAN terdapat 6 Negara ASEAN yang terdata di data Kebahagian pad
 ## DESKRIPSI :
 DARI 6 NEGARA ASEAN DIDAPATKAN RATA-RATA INDEKS KEBAHAGIANNYA.TERNYATA INDEKS KEBAHAGIAN NEGARA THAILAND BERADA DI ATAS GARIS TENGAH DIMANA THAILAND MERUPAKAN NEGARA YANG RELATIF BAHAGIA. SEDANGKAN 5 NEGARA ASEAN YANG LAIN BERADA DIBAWAH GARIS TENGAH ATAU MEDIAN YANG ARTINYA INDEKS KEBAHGIANYA MASIH KURANG.SELANJUTNYA KITA AKAN MELIHAT PERINGKAT MASING-MASING NEGARA DARI SELURUH NEGARA YANG TERDATA PADA TAHUN 2020.
 
-## PERINGKAT INDEKS KEBAHAGIAN NEGARA ASEAN <img scr='https://github.com/YolandaSitompul/Tugas-Praktisi-Yolanda/blob/de8f382bf39f154c9aae7d455c027657f8cbcecd/peringkatskornegaraASEAN.png'>
+## PERINGKAT INDEKS KEBAHAGIAN NEGARA ASEAN <img src='https://github.com/YolandaSitompul/Tugas-Praktisi-Yolanda/blob/b8fc20d307d4501a0eb918b63d93cce41f62dc1b/peringkatskornegaraASEAN.png'>
 
 ## DESKRIPSI : 
 Dapat dilihat bahwa negara Thailand berada di peringkat 54 dari 154 negara yang ada sedangkan indonesia berada pada peringkat 84. sehingga benar bahwa negara Thailand adalah negara yang relatif bahagia dari 5 negara ASEAN lainnya. 
