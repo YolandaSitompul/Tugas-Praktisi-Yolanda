@@ -1,8 +1,8 @@
 # Tugas-Praktisi-Yolanda
 # Visualisasi Tugas Data Mining : EDA Happiness Score 
 
-## Deskripsi :
-Menurut data yang ada berikut linknya (https://www.ilmupengetahuanumum.com/11-negara-anggota-asean/) dan berdasarkan data ada 11 Negara ASEAN yaitu : 
+## DESKRIPSI :
+Dari data yang saya ambil (https://www.ilmupengetahuanumum.com/11-negara-anggota-asean/) terdapat 11 Negara ASEAN yaitu : 
 1. Malaysia
 2. Indonesia
 3. Thailand
@@ -15,9 +15,19 @@ Menurut data yang ada berikut linknya (https://www.ilmupengetahuanumum.com/11-ne
 10. Kamboja
 11. Timor leste
 
-## 6 Negara ASEAN <img src='https://github.com/YolandaSitompul/Tugas-Praktisi-Yolanda/blob/1cef02849e07171bab80271f449188814ca5b7cb/Datanegara.png'>
-Dari 11 Negara ASEAN ternyata ada 6 Negara ASEAN yang terdata di data Kebahagian pada Tahun 2020 sehingga di sini saya hanya menggunakan 6 Negara ASEAN. 
+## NAMA NEGARA ASEAN YANG TERDATA DI HAPPINESS SCORE TAHUN 2020 <img src='https://github.com/YolandaSitompul/Tugas-Praktisi-Yolanda/blob/1cef02849e07171bab80271f449188814ca5b7cb/Datanegara.png'>
+
+## DESKRIPSI:
+Dari 11 Negara ASEAN terdapat 6 Negara ASEAN yang terdata di data Kebahagian pada Tahun 2020 sehingga di sini saya hanya menggunakan 6 Negara ASEAN. 
 
 ## Rata-rata Indeks Kebahagian 6 Negara ASEAN <img src='https://github.com/YolandaSitompul/Tugas-Praktisi-Yolanda/blob/0e431bbb5fa964b0197d85cfc5f6a23de01b99eb/rata-rata%20kebahagian.png'>
 
-Dari data yang ada didapatkan rata-rata indeks kebahagian 6 Negara ASEAN 
+## DESKRIPSI :
+Dari 6 negara ASEAN didapatkan rata-rata indeks kebahagian. 
+
+## PERINGKAT INDEKS KEBAHAGIAN NEGARA ASEAN <img scr='https://github.com/YolandaSitompul/Tugas-Praktisi-Yolanda/blob/de8f382bf39f154c9aae7d455c027657f8cbcecd/peringkatskornegaraASEAN.png'>
+
+## DESKRIPSI : 
+
+
+
