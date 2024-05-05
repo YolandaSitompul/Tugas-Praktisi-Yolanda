@@ -18,13 +18,13 @@ Dari data yang saya ambil (https://www.ilmupengetahuanumum.com/11-negara-anggota
 ## NAMA NEGARA ASEAN YANG TERDATA DI HAPPINESS SCORE TAHUN 2020 <img src='https://github.com/YolandaSitompul/Tugas-Praktisi-Yolanda/blob/1cef02849e07171bab80271f449188814ca5b7cb/Datanegara.png'>
 
 ## DESKRIPSI:
-Dari 11 Negara ASEAN terdapat 6 Negara ASEAN yang terdata di data Kebahagian pada Tahun 2020 sehingga di sini saya hanya menggunakan 6 Negara ASEAN.Berikut ini 6 negara ASEAN yang akan kita lihat tingkat kebahagian yaitu
-1.Thailand
-2.Malaysia
-3.Vietnam
-4.Indonesia
-5.Laos
-6.Myanmar
+Dari 11 Negara ASEAN terdapat 6 Negara ASEAN yang terdata di data Kebahagian pada Tahun 2020 sehingga di sini saya hanya menggunakan 6 Negara ASEAN.Berikut ini 6 negara ASEAN yang akan kita lihat tingkat kebahagian yaitu: 
+1. Thailand
+2. Malaysia
+3. Vietnam
+4. Indonesia
+5. Laos
+6. Myanmar
 
 ## Rata-rata Indeks Kebahagian 6 Negara ASEAN <img src='https://github.com/YolandaSitompul/Tugas-Praktisi-Yolanda/blob/0e431bbb5fa964b0197d85cfc5f6a23de01b99eb/rata-rata%20kebahagian.png'>
 
